@@ -27,8 +27,8 @@ namespace UsbaleNetAQA.UTestToRun
                 //Change here to your UsableNet credentailm, Project Name, Page URL
                 var loginName = "kmilbourne@aislerocket.com";
                 var loginPassw = "ars4LYFE";
-                var pageName = "Test5-032320";
-                var pageURL = "https://www.maytag.com/faux-stage/extra-power.html";
+                var pageName = "WPA-Test1-032320";
+                var pageURL = "https://www.whirlpool.com/blog.html?fit";
 
 
                 usableNetSite.FillOutLoginData(loginName, loginPassw);
