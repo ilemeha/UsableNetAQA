@@ -25,8 +25,8 @@ namespace UsbaleNetAQA.UTestToRun
                 var usableNetSite = new AllDevicesObject(driver);
 
                 //Change here to your UsableNet credentailm, Project Name, Page URL
-                var loginName = "kmilbourne@aislerocket.com";
-                var loginPassw = "ars4LYFE";
+                var loginName = "YourLoginName";
+                var loginPassw = "YourPassword";
                 var pageName = "WPA-Test1-032320";
                 var pageURL = "https://www.whirlpool.com/blog.html?fit";
 
